@@ -20,6 +20,7 @@ Warp is written in Rust and is supported on Linux, Windows and macOS.
   * [Authors](#authors)
   * [License](#license)
 
+## TODO: Add section for linux-musl (i.e. https://blog.rust-lang.org/2016/05/13/rustup.html)
 
 ## Quickstart with Node.js
 ### Linux
